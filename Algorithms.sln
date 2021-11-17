@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveDrawing", "Recursi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingVectors", "GeneratingVectors\GeneratingVectors.csproj", "{50710D5B-39D7-4789-919A-4BF0DAB94B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCombinations", "GeneratingCombinations\GeneratingCombinations.csproj", "{6CBC5B57-7359-4C94-8F80-DBE7A8EB20DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingCombinations", "GeneratingCombinations\GeneratingCombinations.csproj", "{6CBC5B57-7359-4C94-8F80-DBE7A8EB20DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllPathsInLabyrinth", "FindAllPathsInLabyrinth\FindAllPathsInLabyrinth.csproj", "{B96B5926-E5CF-4B70-A959-8D91855DF1F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAllPathsInLabyrinth", "FindAllPathsInLabyrinth\FindAllPathsInLabyrinth.csproj", "{B96B5926-E5CF-4B70-A959-8D91855DF1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueensPuzzle", "EightQueensPuzzle\EightQueensPuzzle.csproj", "{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B96B5926-E5CF-4B70-A959-8D91855DF1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96B5926-E5CF-4B70-A959-8D91855DF1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96B5926-E5CF-4B70-A959-8D91855DF1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
