@@ -21,15 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingCombinations", "G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAllPathsInLabyrinth", "FindAllPathsInLabyrinth\FindAllPathsInLabyrinth.csproj", "{B96B5926-E5CF-4B70-A959-8D91855DF1F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueensPuzzle", "EightQueensPuzzle\EightQueensPuzzle.csproj", "{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightQueensPuzzle", "EightQueensPuzzle\EightQueensPuzzle.csproj", "{BF626457-B87F-4B8D-A9A9-063A2EE8B4AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{DA2F0ED4-31D3-456D-B83A-E0B66109FD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{DA2F0ED4-31D3-456D-B83A-E0B66109FD1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{97DD6E6C-9765-4CB2-B3A9-52154F21DF0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{97DD6E6C-9765-4CB2-B3A9-52154F21DF0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetitions", "CombinationsWithRepetitions\CombinationsWithRepetitions.csproj", "{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithRepetitions", "CombinationsWithRepetitions\CombinationsWithRepetitions.csproj", "{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHannoi", "TowerOfHannoi\TowerOfHannoi.csproj", "{16654E31-4694-4DAD-90BD-7355F3C595AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHannoi", "TowerOfHannoi\TowerOfHannoi.csproj", "{16654E31-4694-4DAD-90BD-7355F3C595AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetitions", "CombinationsWithoutRepetitions\CombinationsWithoutRepetitions.csproj", "{2DAE657D-8BDE-471C-9B07-8763FCB9EDEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAE657D-8BDE-471C-9B07-8763FCB9EDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAE657D-8BDE-471C-9B07-8763FCB9EDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAE657D-8BDE-471C-9B07-8763FCB9EDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAE657D-8BDE-471C-9B07-8763FCB9EDEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
