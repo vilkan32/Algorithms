@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetitions", "CombinationsWithRepetitions\CombinationsWithRepetitions.csproj", "{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHannoi", "TowerOfHannoi\TowerOfHannoi.csproj", "{16654E31-4694-4DAD-90BD-7355F3C595AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB46E1F7-4D28-41F7-A23A-2A4992D88DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16654E31-4694-4DAD-90BD-7355F3C595AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
